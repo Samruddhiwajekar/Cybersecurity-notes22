@@ -64,7 +64,7 @@ Stay tuned for upcoming sessions where we dive deeper into:
 ---
 
 📅 **Session Date:** Day 1  
-👨‍🏫 **Instructor:** *[Your Name]*  
+👨‍🏫 **Instructor:** *[Samruddhi wajekar]*  
 📍 **Topic:** Introduction to Cybersecurity & Ethical Hacking
 
 
